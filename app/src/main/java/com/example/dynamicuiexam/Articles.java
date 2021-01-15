@@ -2,7 +2,7 @@ package com.example.dynamicuiexam;
 
 public class Articles {
     static String[] Headlines = {
-            "기사제목 1", "기사제목 2"
+            "기사제목 1번", "기사제목 2번"
     };
 
     static String[] Articles = {
